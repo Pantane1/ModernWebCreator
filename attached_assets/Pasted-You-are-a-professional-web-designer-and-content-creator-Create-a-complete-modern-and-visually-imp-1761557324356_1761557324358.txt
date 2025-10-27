@@ -1,0 +1,114 @@
+You are a professional web designer and content creator. Create a complete, modern, and visually impressive developer portfolio website for **Pantane (Martin Wamuhu)**. The site should look clean, creative, and tech-forward — blending minimalism with personality.
+
+---
+
+### PERSONAL INFORMATION
+
+**Name:** Pantane (Martin Wamuhu)
+**Email:** [pantane254@gmail.com](mailto:pantane254@gmail.com)
+**WhatsApp:** +254 740 312 402
+**Location:** Kenya
+**Profession:** Full-stack Web Developer, Designer & Tech Enthusiast
+
+**Profile Images:**
+
+1. [https://ibb.co/JwThJm15](https://ibb.co/JwThJm15)
+2. [https://ibb.co/cKc7VB55](https://ibb.co/cKc7VB55)
+
+---
+
+### SITE STRUCTURE
+
+Build the portfolio with these sections:
+
+1. **Landing Section (Hero):**
+
+   * A bold introduction like: “Hey, I’m Pantane — I build powerful, beautiful, and responsive web experiences.”
+   * A background using one of the provided images or a sleek gradient.
+   * Include buttons for “View My Work” and “Contact Me.”
+
+2. **About Me Section:**
+
+   * Short story about Pantane’s passion for web development, creativity, and continuous learning.
+   * Mention his mission: “To create digital experiences that inspire and perform.”
+   * Add a “fun side” paragraph that shows his personality and interests (e.g., learning new frameworks, exploring design trends, tech blogging).
+
+3. **Skills Section:**
+
+   * Languages: HTML, CSS, JavaScript, Python, PHP.
+   * Frameworks: React, Node.js, Laravel, Tailwind CSS.
+   * Tools: Git, VS Code, Figma, Firebase, WordPress.
+   * Display them with creative skill bars or animated icons.
+
+4. **Projects Section:**
+
+   * Showcase 4–6 sample projects (real or sample) with descriptions, features, and technologies used.
+   * Add hover animations for each project card.
+   * Example projects:
+
+     * “Pantane Portfolio” – a responsive personal website built with React & Tailwind.
+     * “SmartShop” – e-commerce web app using Laravel & MySQL.
+     * “BlogSphere” – blogging platform using Node.js & MongoDB.
+     * “AI Prompt Studio” – tool for generating creative AI prompts.
+
+5. **Blog Section:**
+
+   * Add a blog section titled “Pantane Writes About Tech.”
+   * Include example blog categories: Web Development, Tech Tools, Design Tips, AI & Automation.
+   * Pull inspiration from top tech blogs such as:
+
+     * Smashing Magazine
+     * CSS-Tricks
+     * DEV.to
+     * FreeCodeCamp
+     * Hashnode
+
+6. **Contact Section:**
+
+   * Add a friendly contact form.
+   * Display the email and WhatsApp number clearly.
+   * Include icons for LinkedIn, GitHub, and maybe a “Hire Me” button.
+   * Add a small call-to-action like: “Let’s build something amazing together!”
+
+7. **Footer:**
+
+   * Copyright © 2025 Pantane | All Rights Reserved.
+   * Social media icons.
+   * Link to privacy and terms.
+
+---
+
+### DESIGN REQUIREMENTS
+
+* Use a **dark or semi-dark theme** with accent colors (electric blue, neon green, or purple).
+* Use smooth animations, glassmorphism or soft shadows.
+* The layout must be **fully responsive** (desktop + mobile).
+* Include modern typography and spacing.
+* Add an optional “Download CV” button.
+
+---
+
+### OPTIONAL EXTRAS
+
+* Add a “Testimonials” section with 3 sample reviews from imaginary clients.
+* Include a “Tech Stack Timeline” animation showing Pantane’s growth.
+* Add a “Back to Top” floating button.
+* Include a favicon that features Pantane’s initials (P).
+
+---
+
+### OUTPUT REQUEST
+
+Generate:
+
+* A ready-to-use HTML/CSS/JS portfolio (or React/Tailwind version if possible).
+* Include realistic filler text for projects and blogs.
+* Include Pantane’s contact info where relevant.
+* Ensure all sections connect smoothly with navigation links.
+
+End the portfolio with a strong final message:
+**“Coded with love and logic by Pantane 💻✨”**
+
+---
+
+If the builder supports visuals, automatically integrate the profile images and ensure everything matches Pantane’s brand personality — clean, confident, and creative.
