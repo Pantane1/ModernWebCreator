@@ -35,10 +35,10 @@ export function Contact() {
     mutationFn: async (data: InsertContact) => {
       return await apiRequest("POST", "/api/contact", data);
     },
-    onSuccess: (response) => {
+    onSuccess: (response: any) => {
       toast({
         title: "Message Sent Successfully!",
-        description: response.message || "Thank you for reaching out. I'll get back to you soon.",
+        description: response?.message || "Thank you for reaching out. I'll get back to you soon.",
       });
       form.reset();
     },
@@ -46,7 +46,7 @@ export function Contact() {
       toast({
         variant: "destructive",
         title: "Failed to Send Message",
-        description: error.message || "Something went wrong. Please try again later.",
+        description: error?.message || "Something went wrong. Please try again later.",
       });
     },
   });
